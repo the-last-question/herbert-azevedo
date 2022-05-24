@@ -1,4 +1,4 @@
-Esquemático do projeto:
+# Esquemático do projeto:
 
 <div align="center">
   
@@ -6,7 +6,7 @@ Esquemático do projeto:
   
 </div>
 
-Componentes utilizados no projeto:
+# Componentes utilizados no projeto:
 
 <div align="center">
   
